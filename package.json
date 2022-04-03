@@ -1,0 +1,23 @@
+{
+  "name": "education-accessibility-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "reload ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milantenk/education-accessibility-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milantenk/education-accessibility-task/issues"
+  },
+  "homepage": "https://github.com/milantenk/education-accessibility-task#readme",
+  "devDependencies": {
+    "reload": "^3.2.0"
+  }
+}
